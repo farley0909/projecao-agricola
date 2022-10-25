@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+  
+}
+#main-content{
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    width:60%;
+}
+#main-content h1{
+    font-weight: 200;
+    text-align: center;
+    font-size: 20pt;
+}
+#telefone{
+    margin-bottom: 4%;
+   width: 50%;
+}
+    
+#containerBotao button{
+    float: right;
+    
+}
+.warnning{
+    display: none;
+    color:rgb(243, 104, 104);
+}
+.password{
+    display: none;
+    color:rgb(243, 104, 104);
+}
+.password ul{
+    margin-left: 5%;
+    font-size: 10pt;
+    
+}
