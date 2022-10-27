@@ -1,6 +1,6 @@
 import { uuid } from 'uuidv4';
 import bcrypt from 'bcrypt'
-export class usuarioModel{
+export class cadastroModel{
     private id:string
     constructor(
         private conta_ativa:boolean,
