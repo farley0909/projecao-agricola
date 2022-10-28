@@ -36,8 +36,8 @@ export class cadastroController{
             port: 587,
             secure: false, 
             auth: {
-            user: 'jose.farley@academico.ifpb.edu.br', 
-            pass: 'xhhidqujyogggrts', 
+           // user: 'teste@gmail.com', 
+            // pass: 'senha123', 
             },
         });
         console.log("Data: ", this.usModel.getId(), " || Salt: ",process.env.JWT_SECRET)
